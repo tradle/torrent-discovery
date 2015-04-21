@@ -15,12 +15,12 @@
     "url": "https://github.com/feross/torrent-discovery/issues"
   },
   "dependencies": {
-    "bittorrent-dht": "git://github.com/mvayngrib/bittorrent-dht",
-    "bittorrent-tracker": "^3.1.2",
+    "bittorrent-dht": "git://github.com/tradle/bittorrent-dht",
+    "bittorrent-tracker": "~3.1.2",
     "debug": "^2.0.0",
     "inherits": "^2.0.1",
     "re-emitter": "^1.0.0",
-    "webtorrent-tracker": "0.x",
+    "webtorrent-tracker": "0.7.x",
     "xtend": "^4.0.0"
   },
   "devDependencies": {
